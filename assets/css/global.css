@@ -5,6 +5,7 @@
 
 body {
     background-color: #f6f8fc;
+    height: 97vh;
 }
 
 .content {
@@ -12,10 +13,6 @@ body {
     height: 100vh;
     padding: 1rem;
     background-color: #fff;
-}
-
-.modal-backdrop {
-    background-color: rgba(76, 70, 70, 0.236) !important;
 }
 
 @media screen and (min-width: 992px) {
